@@ -1,0 +1,5 @@
+{
+  "poll_buffer_seconds": 15,
+  "telegram_enabled": true,
+  "symbols": ["SOLUSDT"]
+}

@@ -1,0 +1,74 @@
+{
+  "SOLUSDT": {
+    "setups": [
+      {
+        "id": "SOLUSDT_4h_PDH_short_2026-07-26T17:30:00+05:30",
+        "side": "short",
+        "htf": "4h",
+        "ltf": "15m",
+        "level_name": "PDH",
+        "level_value": 74.69,
+        "swing_price": 75.47,
+        "swing_candle_open_ist": "2026-07-26T17:30:00+05:30",
+        "swing_candle_close_utc": "2026-07-26T15:59:59.999000+00:00",
+        "reaction": "BREAKOUT",
+        "status": "swept",
+        "sweep": {
+          "candle_open_ist": "2026-07-26T21:30:00+05:30",
+          "extreme": 75.5,
+          "close": 75.38
+        },
+        "msb": {
+          "value": 74.92,
+          "candle_open_ist": "2026-07-26T20:30:00+05:30"
+        },
+        "entry": null,
+        "expires_at_utc": "2026-07-28T15:59:59.999000+00:00",
+        "logged_at_ist": "2026-07-26T21:30:15.743768+05:30"
+      },
+      {
+        "id": "SOLUSDT_1h_PDH_short_2026-07-26T20:30:00+05:30",
+        "side": "short",
+        "htf": "1h",
+        "ltf": "5m",
+        "level_name": "PDH",
+        "level_value": 74.69,
+        "swing_price": 75.47,
+        "swing_candle_open_ist": "2026-07-26T20:30:00+05:30",
+        "swing_candle_close_utc": "2026-07-26T15:59:59.999000+00:00",
+        "reaction": "BREAKOUT",
+        "status": "swept",
+        "sweep": {
+          "candle_open_ist": "2026-07-26T21:30:00+05:30",
+          "extreme": 75.5,
+          "close": 75.36
+        },
+        "msb": {
+          "value": 75.27,
+          "candle_open_ist": "2026-07-26T21:15:00+05:30"
+        },
+        "entry": null,
+        "expires_at_utc": "2026-07-26T23:59:59.999000+00:00",
+        "logged_at_ist": "2026-07-26T21:30:17.298044+05:30"
+      },
+      {
+        "id": "SOLUSDT_1h_PDH_short_2026-07-26T21:30:00+05:30",
+        "side": "short",
+        "htf": "1h",
+        "ltf": "5m",
+        "level_name": "PDH",
+        "level_value": 74.69,
+        "swing_price": 75.96,
+        "swing_candle_open_ist": "2026-07-26T21:30:00+05:30",
+        "swing_candle_close_utc": "2026-07-26T16:59:59.999000+00:00",
+        "reaction": "BREAKOUT",
+        "status": "armed",
+        "sweep": null,
+        "msb": null,
+        "entry": null,
+        "expires_at_utc": "2026-07-27T00:59:59.999000+00:00",
+        "logged_at_ist": "2026-07-26T22:30:15.751189+05:30"
+      }
+    ]
+  }
+}
